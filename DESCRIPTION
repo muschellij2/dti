@@ -34,4 +34,4 @@ Copyright: This package is
 URL: http://www.wias-berlin.de/research/ats/imaging/
 Suggests:
     covr
-RoxygenNote: 6.1.0
+RoxygenNote: 7.1.0
